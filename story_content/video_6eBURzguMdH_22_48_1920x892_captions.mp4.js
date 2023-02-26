@@ -1,0 +1,1 @@
+window.globalProvideData('caption', '{"data":"1%0D%0A00:00:00,000%20--%3E%2000:00:10,000%0D%0APhysical%20examination.%20Normal%20in%20ACS.%20Look%20for%20other%20diagnosis.%20Vital%20signs.%0D%0A%0D%0A"}')
